@@ -73,7 +73,7 @@ Save a .env file like the following
 # Setting a dummy value since we're using Ollama
 OPENAI_API_KEY=sk-dummy-key-not-used
 
-# Ollama Configuration
+# Ollama Configuration - server must be running
 OLLAMA_BASE_URL=http://localhost:11434
 OLLAMA_MODEL=llama3.2
 
